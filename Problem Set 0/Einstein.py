@@ -1,0 +1,5 @@
+m = int(input("Enter in Kgs: "))
+c = 3000000
+E = m * (c ** 2)
+
+print(E)
